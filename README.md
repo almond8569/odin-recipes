@@ -1,6 +1,4 @@
 # odin-recipes
 HTML Practice (My first GitHub repo!)
 
-Date: 1/11/23 - This is my first coding project! This is a work of html  guided by the Odin Project and will feature recipes for foods which I enjoy eating. 
-
-git commit -m"testing"
+Date: 1/11/23 - Welcome to my first coding project! This is a work of html code guided by the Odin Project. It features recipes for three of my favorite foods. Enjoy!  
